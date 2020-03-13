@@ -1,11 +1,11 @@
 baseURL = "https://ostanikodkuce.rs/"
 languageCode = "rs"
-title = "ostanikodkuce.rs"
+title = "Ostani kod kuće - COVID-19"
 theme = "anubis"
 
 [params]
   description = "Saznaj više šta možeš samostalno da uradiš kako bi sprečio dalje širenje COVID-19"
-  title = "ostanikodkuce.rs"
+  title = "Ostani kod kuće - COVID-19"
 
 [taxonomies]
   series = "series"
