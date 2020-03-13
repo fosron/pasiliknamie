@@ -1,0 +1,4 @@
+baseURL = "http://ostanikodkuce.rs/"
+languageCode = "rs"
+title = "ostanikodkuce.rs"
+theme = "anubis"
