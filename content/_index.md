@@ -4,7 +4,7 @@
 
 #### U Srbiji je prema zvaničnim podacima virusom COVID-19 trenutno zaraženo 35 ljudi. Ažurirano 13. marta u 21:59.
 
-S obzirom da vlasti svih zemalja ne rade dovoljno na edukaciji i upozorenjima koja su vezana za COVID-19 virus (_za koji je i zvanično proglašena pandemija_), ovaj sajt će služiti kao uputstvo i podsećanje svima na važne korake pri suzbijanju pandemije ovog virusa. Sajt će biti redovno ažuriran.
+S obzirom da vlasti svih zemalja ne rade dovoljno na edukaciji i upozorenjima koja su vezana za [COVID-19 virus](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) (_za koji je i zvanično proglašena pandemija_), ovaj sajt će služiti kao uputstvo i podsećanje svima na važne korake pri suzbijanju pandemije ovog virusa. Sajt će biti redovno ažuriran.
 
 ### Opšta pravila ponašanja
 
