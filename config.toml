@@ -4,4 +4,5 @@ title = "ostanikodkuce.rs"
 theme = "anubis"
 
 [params]
+  title = "ostanikodkuce.rs"
   description = "Saznaj više šta možeš samostalno da uradiš kako bi sprečio dalje širenje COVID-19"
