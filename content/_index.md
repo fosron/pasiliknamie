@@ -14,7 +14,7 @@ S obzirom da vlasti svih zemalja ne rade dovoljno na edukaciji i upozorenjima ko
 4. Trudite se na dirate nos, usta i oči, pošto jako lako možete preneti virus rukama. Ovo ne znači da ni unutar svojih stanova i kuća ne smete to raditi, ali morate dezinfikovati ruke pre nego što krenete sa time.
 5. Držite distancu od najmanje jednog metra i izbegavajte gužve i javni prevoz.
 6. Iako smo srdačan narod, rukovanje, grljenje i ljubljenje treba redukovati sem sa ukućanima.
-7. Perite ruke više puta dnevno i minimum 30 sekundi.
+7. [Perite ruke više puta dnevno i minimum 30 sekundi.](https://www.youtube.com/watch?v=3PmVJQUCm4E)
 8. Ne širite paniku na društvenim mrežama, kao i neproverene informacije.
 9. Ne kupujte tone toalet papira.
 10. Ako osetite neki simptom, automatski se samoizolujte, pripremite listu lokacija na kojima ste bili u prethodnih nekoliko dana i pozovite **0648945235**, zvanični broj Ministarstva zdravlja. Možete se obratiti i institutu za javno zdravlje "Batut" na broj **0112684566**.
