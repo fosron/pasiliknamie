@@ -5,3 +5,9 @@
   to = "https://ostanikodkuce.rs/:splat"
   status = 301
   force = true
+
+[[redirects]]
+  from = "http://ostanikodkuce.rs/*"
+  to = "https://ostanikodkuce.rs/:splat"
+  status = 301
+  force = true
