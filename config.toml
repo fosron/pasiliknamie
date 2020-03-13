@@ -6,7 +6,7 @@ theme = "anubis"
 [params]
   description = "Saznaj više šta možeš samostalno da uradiš kako bi sprečio dalje širenje COVID-19"
   title = "Ostani kod kuće - COVID-19"
-  images = ["static/meta.jpg"]
+  images = ["meta.jpg"]
 
 [taxonomies]
   series = "series"
