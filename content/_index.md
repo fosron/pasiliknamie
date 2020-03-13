@@ -1,3 +1,7 @@
+---
+title: "Ostani kod kuće - COVID-19 pandemija"
+---
+
 # #ostanikodkuće
 
 ##### Inspirisani projektom https://staythefuckhome.com rešili smo da napravimo i verziju na srpskom.
