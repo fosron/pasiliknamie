@@ -4,8 +4,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 
-<title>{{ if .Title }}{{ .Title }}  - {{ end }}{{ .Site.Title }}</title>
+<title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
 <meta name="description" content="{{ .Site.Params.Description }}">
+<meta name="og:title" content="{{ .Title }}">
+<meta name="og:description" content="{{ .Site.Params.Description }}">
 
 <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ "rss/" | absURL }}">
 
@@ -24,5 +26,5 @@
 <meta property="article:publisher" content="https://www.facebook.com/XXX"> -->
 
 {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-    {{ template "_internal/google_analytics_async.html" . }}
+{{ template "_internal/google_analytics_async.html" . }}
 {{ end }}

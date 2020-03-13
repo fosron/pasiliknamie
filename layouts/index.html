@@ -1,6 +1,5 @@
 {{ define "main" }}
 <main aria-role="main">
-  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
   <header class="homepage-header">
     <h1>{{.Title}}</h1>
     {{ with .Params.subtitle }}
