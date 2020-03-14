@@ -4,13 +4,9 @@ title: "Pasilik namie - COVID-19 pandemija"
 
 # #pasiliknamie
 
-**Visa svarbiausia ir oficiali informacija bus pasiekiama [Sveikatos apsaugos ministerijos](http://sam.lrv.lt/lt/naujienos/koronavirusas) puslapyje.**
+**Lietuvoje nuo Kovo 16 d. oficialiai įvedamas [karantinas](https://www.lrt.lt/naujienos/lietuvoje/2/1151518/lrt-trumpai-salyje-ivedamas-karantinas-kas-keisis).**
 
-## Pasilik namie!
-
-Lietuvoje nuo Kovo 16 d. oficialiai įvedamas [karantinas](https://www.lrt.lt/naujienos/lietuvoje/2/1151518/lrt-trumpai-salyje-ivedamas-karantinas-kas-keisis).
-
-Keletas patarimų:
+## Kaip elgtis?
 
 - Nepanikuokite, bet būkite budrūs.
 - Dažnai plaukite rankas ir laikykitės etiketo kosėdami bei čiaudėdami.
@@ -23,15 +19,13 @@ Keletas patarimų:
 - Pakeiskite kuo daugiau socialinių sąveikų nuotolinėmis alternatyvomis, tokiomis kaip telefono skambučiai ar vaizdo pokalbiai.
 - Neišeikite iš savo namų, jei tai nėra absoliučiai būtina.
 
-## Apsauga nuo koronaviruso
-
 ![meta](meta.jpg)
 
 ## Kur ieškoti informacijos?
 
 * [Sveikatos apsaugos ministerijos koronaviruso puslapis](http://sam.lrv.lt/lt/naujienos/koronavirusas)
 * [Lietuvos radijas ir televizija - tema #koronavirusas](https://www.lrt.lt/tema/koronavirusas)
-* [PSO COVID-19 puslapis (angliškai)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+* [Pasaulio sveikatos organizacijos COVID-19 puslapis (angliškai)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 
 *Dėkojame https://staythefuckhome.com už įkvėpimą!*
 

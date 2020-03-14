@@ -1,6 +1,6 @@
-baseURL = "https://ostanikodkuce.rs/"
+baseURL = "https://pasiliknamie.lt/"
 languageCode = "lt"
-title = "Pasilik namie - COVID-19"
+title = "#pasiliknamie"
 theme = "anubis"
 
 [params]
