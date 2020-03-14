@@ -262,7 +262,7 @@ article header h1 a {
     margin-right: 1em;
 }
 
-article img {
+article img, img {
     max-width: 100%;
     display: block;
     height: auto;
