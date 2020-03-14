@@ -1,27 +1,27 @@
 ---
-title: "Ostani kod kuće - COVID-19 pandemija"
+title: "Pasilik namie - COVID-19 pandemija"
 ---
 
-# #ostanikodkuće
+# #pasilik namie
 
-##### Inspirisani projektom https://staythefuckhome.com rešili smo da napravimo i verziju na srpskom.
+##### Įkvėpti projekto https://staythefuckhome.com, nusprendėme sukurti ir lietuvišką versiją.
 
-#### U Srbiji je prema zvaničnim podacima virusom COVID-19 trenutno zaraženo 46 osoba. Ažurirano 14. marta u 20:08.
+#### Oficialiais duomenimis, šiuo metu Lietuvoje COVID-19 virusu yra užsikrėtę 7 žmonės. Atnaujinta kovo 14 d., 22:06.
 
-S obzirom da vlasti svih zemalja ne rade dovoljno na edukaciji i upozorenjima koja su vezana za [COVID-19 virus](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) (_za koji je i zvanično proglašena pandemija_), ovaj sajt će služiti kao uputstvo i podsećanje svima na važne korake pri suzbijanju pandemije ovog virusa. Sajt će biti redovno ažuriran.
+Ši svetainė tai bus vadovas ir priminimas visiems apie svarbius žingsnius kovojant su šia pandemija. Svetainė bus reguliariai atnaujinama. Svarbiausia ir oficiali informacija bus pasiekiama [Sveikatos apsaugos ministerijos](http://sam.lrv.lt/lt/naujienos/koronavirusas) puslapyje.
 
-### Opšta pravila ponašanja
+### Bendrosios elgesio taisyklės
 
-1. Prvo i najbitnije - ako ne morate da izlazite, ostanite kod kuće. Kupite zalihe za 5-10 dana i izlazite samo radi kupovine.
-2. Povrće i voće ubacite na 10ak minuta u litar vode sa kašikom sode.
-3. Ako izlazite, izbegavajte kontakte sa osobama koje su mogući prenosnici virusa (koje imaju povišenu temperaturu, kijanje, curenje nosa, kašalj).
-4. Trudite se na dirate nos, usta i oči, pošto jako lako možete preneti virus rukama. Ovo ne znači da ni unutar svojih stanova i kuća ne smete to raditi, ali morate dezinfikovati ruke pre nego što krenete sa time.
-5. Držite distancu od najmanje jednog metra i izbegavajte gužve i javni prevoz.
-6. Iako smo srdačan narod, rukovanje, grljenje i ljubljenje treba redukovati sem sa ukućanima.
-7. [Perite ruke više puta dnevno i minimum 30 sekundi.](https://www.youtube.com/watch?v=3PmVJQUCm4E)
-8. Ne širite paniku na društvenim mrežama, kao i neproverene informacije.
-9. Ne kupujte tone toalet papira.
-10. Ako osetite neki simptom, automatski se samoizolujte, pripremite listu lokacija na kojima ste bili u prethodnih nekoliko dana i pozovite **0648945235**, zvanični broj Ministarstva zdravlja. Možete se obratiti i institutu za javno zdravlje "Batut" na broj **0112684566**.
+1. Pirmiausia ir svarbiausia - jei jums nereikia išeiti, likite namuose. Pirkite atsargas per 5-10 dienų ir išeikite tik pirkti prekių.
+2. Daržoves ir vaisius 10 minučių padėkite į litrą vandens su šaukštu sodos.
+3. Išeidami venkite kontakto su žmonėmis, kurie gali pernešti virusą (karščiuoja, čiaudulys, sloga, kosulys).
+4. Pabandykite neliesti nosies, burnos ir akių, nes virusą galite lengvai perduoti rankomis. Tai nereiškia, kad neturite to daryti savo butuose ar namuose, bet prieš tai dezinfekuokite rankas.
+5. Laikykitės bent metro atstumo ir venkite minių bei viešojo transporto.
+6. Nors esame nuoširdūs žmonės, tvarkymąsi, apkabinimą ir bučiavimą reikėtų mažinti, išskyrus buitį.
+7. [Plaukite rankas bent 20 sekundžių.](https://www.youtube.com/watch?v=3PmVJQUCm4E)
+8. Neskleiskite panikos socialiniuose tinkluose ir nepatikrintos informacijos.
+9. Nepirkite tonų tualetinio popieriaus.
+10. Jei jaučiate ligos simptomus, nedelsiant skambinkite **112**
 11. Budite odgovorni prema sebi i prema drugima, svojim roditeljima, bakama, dekama - jer su rizičnija kategorija od mlađih.
 12. Deca se mogu zaraziti, iako uglavnom prolaze bez simptoma, mogu biti prenosnici virusa.
 13. Dezinfikujte obuću koju koristite napolju. Asepsol nije toliko efikasan, ali može da posluži u nedostatku sredstva na bazi hlora.
