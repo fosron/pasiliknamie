@@ -25,6 +25,7 @@ title: "Pasilik namie - COVID-19 pandemija"
 
 * [Sveikatos apsaugos ministerijos koronaviruso puslapis](http://sam.lrv.lt/lt/naujienos/koronavirusas)
 * [Lietuvos radijas ir televizija - tema #koronavirusas](https://www.lrt.lt/tema/koronavirusas)
+* [Koronavirusas - tikra info Facebook grupė](https://www.facebook.com/groups/Virusas)
 * [Pasaulio sveikatos organizacijos COVID-19 puslapis (angliškai)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 
 *Dėkojame https://staythefuckhome.com už įkvėpimą!*
