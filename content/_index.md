@@ -28,5 +28,7 @@ title: "Pasilik namie - COVID-19 pandemija"
 * [Koronavirusas - tikra info Facebook grupė](https://www.facebook.com/groups/Virusas)
 * [Pasaulio sveikatos organizacijos COVID-19 puslapis (angliškai)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 
+[Nori prisidėti?](https://github.com/fosron/pasiliknamie)
+
 *Dėkojame https://staythefuckhome.com už įkvėpimą!*
 
