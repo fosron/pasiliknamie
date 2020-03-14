@@ -1,7 +1,7 @@
 # netlify.toml
 
 [[redirects]]
-  from = "https://keen-bhaskara-bc94c1.netlify.com/*"
-  to = "https://ostanikodkuce.rs/:splat"
+  from = "https://mystifying-thompson-ffe4eb.netlify.com/*"
+  to = "https://pasiliknamie.lt/:splat"
   status = 301
   force = true
