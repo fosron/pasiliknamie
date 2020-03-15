@@ -27,6 +27,7 @@ title: "Pasilik namie - COVID-19 pandemija"
 * [Lietuvos radijas ir televizija - tema #koronavirusas](https://www.lrt.lt/tema/koronavirusas)
 * [Koronavirusas - tikra info Facebook grupė](https://www.facebook.com/groups/Virusas)
 * [Pasaulio sveikatos organizacijos COVID-19 puslapis (angliškai)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+* [COVID-19 žemėlapis (angliškai)](https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61)
 
 [Nori prisidėti?](https://github.com/fosron/pasiliknamie)
 
