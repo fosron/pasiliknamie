@@ -31,5 +31,4 @@ title: "Pasilik namie - COVID-19 pandemija"
 
 [Nori prisidėti?](https://github.com/fosron/pasiliknamie)
 
-*Dėkojame https://staythefuckhome.com už įkvėpimą!*
-
+*Dėkojame https://staythefuckhome.com už įkvėpimą! ir [https://ostanikodkuce.rs](https://ostanikodkuce.rs) už kodą!*
