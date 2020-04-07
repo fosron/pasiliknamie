@@ -27,6 +27,7 @@ title: "Pasilik namie - COVID-19 pandemija"
 * [VŠĮ Gyvybės mokslų ir edukologijos institutas - COVID-19 informacija](http://gmei.lt/covid-19)
 * [Pasaulio sveikatos organizacijos COVID-19 puslapis (angliškai)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 * [COVID-19 žemėlapis (angliškai)](https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61)
+* [COVID-19 Virus Pandemic - Worldometers (angliškai)](https://www.worldometers.info/coronavirus/)
 
 [Nori prisidėti?](https://github.com/fosron/pasiliknamie)
 
