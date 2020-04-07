@@ -2,6 +2,8 @@
 title: "Pasilik namie - COVID-19 pandemija"
 ---
 
+![Jorkšyras](jorksyras.jpg)
+
 # #pasiliknamie
 
 ## Kaip elgtis?
@@ -18,6 +20,12 @@ title: "Pasilik namie - COVID-19 pandemija"
 - Neišeikite iš savo namų, jei tai nėra absoliučiai būtina.
 
 ![meta](meta.jpg)
+
+## Kaip jautiesi?
+
+> Renkame duomenis apie SARS-CoV-2 viruso plitimą Lietuvoje, stebėdami viruso sukeltos COVID-19 ligos simptomų dažnį Lietuvos miestuose ir dažnio pokyčius (dinamiką) pandemijos metu. Surinkta informacija gali padėti efektyviau planuoti diagnostinių resursų paskirstymą ir iš anksto įspėti medicinos įstaigas apie artėjančias apkrovas.
+  
+Daugiau informacijos - [kaipjautiesi.lt](https://www.kaipjautiesi.lt/)
 
 ## Kur ieškoti informacijos?
 
