@@ -31,8 +31,11 @@ Daugiau informacijos - [kaipjautiesi.lt](https://www.kaipjautiesi.lt/)
 
 * [Sveikatos apsaugos ministerijos koronaviruso puslapis](http://sam.lrv.lt/lt/naujienos/koronavirusas)
 * [Lietuvos radijas ir televizija - tema #koronavirusas](https://www.lrt.lt/tema/koronavirusas)
-* [Koronavirusas - tikra info Facebook grupė](https://www.facebook.com/groups/Virusas)
+* ["Koronavirusas - tikra info" Facebook grupė](https://www.facebook.com/groups/Virusas)
 * [VŠĮ Gyvybės mokslų ir edukologijos institutas - COVID-19 informacija](http://gmei.lt/covid-19)
+* [Lietuvos koronaviruso statistika (M.Macijauskas)](http://macijauskas.org/covid19)
+
+Angliškai:
 * [Pasaulio sveikatos organizacijos COVID-19 puslapis (angliškai)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 * [COVID-19 žemėlapis (angliškai)](https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61)
 * [COVID-19 Virus Pandemic - Worldometers (angliškai)](https://www.worldometers.info/coronavirus/)
