@@ -4,8 +4,6 @@ title: "Pasilik namie - COVID-19 pandemija"
 
 # #pasiliknamie
 
-**Lietuvoje nuo Kovo 16 d. oficialiai įvedamas [karantinas](https://www.lrt.lt/naujienos/lietuvoje/2/1151518/lrt-trumpai-salyje-ivedamas-karantinas-kas-keisis).**
-
 ## Kaip elgtis?
 
 - Nepanikuokite, bet būkite budrūs.
@@ -26,6 +24,7 @@ title: "Pasilik namie - COVID-19 pandemija"
 * [Sveikatos apsaugos ministerijos koronaviruso puslapis](http://sam.lrv.lt/lt/naujienos/koronavirusas)
 * [Lietuvos radijas ir televizija - tema #koronavirusas](https://www.lrt.lt/tema/koronavirusas)
 * [Koronavirusas - tikra info Facebook grupė](https://www.facebook.com/groups/Virusas)
+* [VŠĮ Gyvybės mokslų ir edukologijos institutas - COVID-19 informacija](http://gmei.lt/covid-19)
 * [Pasaulio sveikatos organizacijos COVID-19 puslapis (angliškai)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 * [COVID-19 žemėlapis (angliškai)](https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61)
 
