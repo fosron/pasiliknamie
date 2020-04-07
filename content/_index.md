@@ -36,6 +36,7 @@ Daugiau informacijos - [kaipjautiesi.lt](https://www.kaipjautiesi.lt/)
 * [Lietuvos koronaviruso statistika (M.Macijauskas)](http://macijauskas.org/covid19)
 
 Angliškai:
+
 * [Pasaulio sveikatos organizacijos COVID-19 puslapis (angliškai)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 * [COVID-19 žemėlapis (angliškai)](https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61)
 * [COVID-19 Virus Pandemic - Worldometers (angliškai)](https://www.worldometers.info/coronavirus/)
