@@ -21,12 +21,6 @@ title: "Pasilik namie - COVID-19 pandemija"
 
 ![meta](meta.jpg)
 
-## Kaip jautiesi?
-
-> Renkame duomenis apie SARS-CoV-2 viruso plitimą Lietuvoje, stebėdami viruso sukeltos COVID-19 ligos simptomų dažnį Lietuvos miestuose ir dažnio pokyčius (dinamiką) pandemijos metu. Surinkta informacija gali padėti efektyviau planuoti diagnostinių resursų paskirstymą ir iš anksto įspėti medicinos įstaigas apie artėjančias apkrovas.
-  
-Daugiau informacijos - [kaipjautiesi.lt](https://www.kaipjautiesi.lt/)
-
 ## Kur ieškoti informacijos?
 
 * [Sveikatos apsaugos ministerijos koronaviruso puslapis](http://sam.lrv.lt/lt/naujienos/koronavirusas)
